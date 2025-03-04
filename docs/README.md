@@ -11,7 +11,7 @@ Página desenvolvida para fins didáticos para o curso **Contribuindo em um Proj
 | Contribuição  | Foi alterado? | Sugestões |
 | ------------- | ------------- | --------- |
 | BUGS          | Não           |  N/A      |
-| REDAME.MD     | Sim           |Adicionar de forma objetiva os tipos de commmit e sua forma de uso em uma tabela|
+| README.MD     | Sim           |Adicionar de forma objetiva os tipos de commmit e sua forma de uso em uma tabela|
 
 | Tipos de commit semânticos | Funcionalidade|
 | ---------------------------|---------------|
