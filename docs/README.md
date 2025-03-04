@@ -13,6 +13,17 @@ Página desenvolvida para fins didáticos para o curso **Contribuindo em um Proj
 | BUGS          | Não           |  N/A      |
 | REDAME.MD     | Sim           |Adicionar de forma objetiva os tipos de commmit e sua forma de uso em uma tabela|
 
+| Tipos de commit semânticos | Funcionalidade|
+| ---------------------------|---------------|
+|feat                        | Adiciona uma nova funcionalidade ou recurso|
+|fix                         | Corrige um bug|
+|docs                        | Altera ou adiciona documentação|
+|style                       | Corrige formatação, semicolons, trailing spaces, lint, etc.|
+|refactor                    | Refatora o código sem introduzir novas funcionalidades ou corrigir bugs|
+|perf                        | Melhora a performance do código|
+|test                        | Adiciona ou corrige testes|
+|chore                       | Faz mudanças regulares ou de manutenção, como atualizações de dependências|
+
 [![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://digitalinnovationone.github.io/dio-lab-open-source/)
 
 ## Tecnologias
